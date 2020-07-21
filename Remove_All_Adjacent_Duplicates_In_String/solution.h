@@ -1,12 +1,8 @@
 #pragma once
-struct ListNode {
-    int val;
-    ListNode* next;
-    ListNode(int x) : val(x), next(nullptr) {}
-    ListNode() :val(0),next(nullptr){}
-};
+#include <string>
+using namespace std;
 
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head);
+    string removeDuplicates(int S);
 };
