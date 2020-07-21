@@ -8,8 +8,6 @@ using namespace std;
 int main() {
     Solution solution;
 
-    string s = "abc";
-    cout << s << endl;
-
+    cout << solution.removeDuplicates("") << endl;
     return 0;
 }
