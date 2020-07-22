@@ -4,5 +4,5 @@ using namespace std;
 
 class Solution {
 public:
-    string removeDuplicates(int S);
+    string removeDuplicates(string S);
 };

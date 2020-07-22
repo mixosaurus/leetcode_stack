@@ -7,7 +7,6 @@ using namespace std;
 //1047. 删除字符串中的所有相邻重复项
 int main() {
     Solution solution;
-
-    cout << solution.removeDuplicates("") << endl;
+    cout << solution.removeDuplicates("abbbbaca");
     return 0;
 }
