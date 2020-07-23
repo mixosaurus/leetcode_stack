@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remove_All_Adjacent_Duplicates_In_String", "Remove_All_Adjacent_Duplicates_In_String\Remove_All_Adjacent_Duplicates_In_String.vcxproj", "{4CB88026-4EF5-432B-9FAE-4FF09DB3B171}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baseball_Game", "Baseball_Game\Baseball_Game.vcxproj", "{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4CB88026-4EF5-432B-9FAE-4FF09DB3B171}.Release|x64.Build.0 = Release|x64
 		{4CB88026-4EF5-432B-9FAE-4FF09DB3B171}.Release|x86.ActiveCfg = Release|Win32
 		{4CB88026-4EF5-432B-9FAE-4FF09DB3B171}.Release|x86.Build.0 = Release|Win32
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Debug|x64.ActiveCfg = Debug|x64
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Debug|x64.Build.0 = Debug|x64
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Debug|x86.Build.0 = Debug|Win32
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Release|x64.ActiveCfg = Release|x64
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Release|x64.Build.0 = Release|x64
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Release|x86.ActiveCfg = Release|Win32
+		{26E8A8AE-0334-4E62-9CD5-9D67F49CE5EF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
