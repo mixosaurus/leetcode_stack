@@ -9,9 +9,6 @@ int main() {
     vector<int> nums1= { 4,1,2 };
     vector<int> nums2= { 1,3,4,2 };
     vector<int> num = solution.nextGreaterElement(nums1, nums2);
-    for (int n :num) {
-        cout << n<<" ";
-    }
     cout<<endl;
     system("pause");
     return 0;
