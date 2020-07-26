@@ -3,7 +3,7 @@
 using namespace std;
 
 bool Solution::backspaceCompare(string S, string T) {
-    //原地算法，把原字符串作为栈
+    //原地算法，把原符串
     int top = -1;
     for (char ch:S) {
         if (ch !='#') {
@@ -13,7 +13,6 @@ bool Solution::backspaceCompare(string S, string T) {
         }
     }
     S.resize(top+1);
-
     top = -1;
     for (char ch:T) {
         if (ch !='#') {
