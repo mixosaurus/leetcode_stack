@@ -1,9 +1,9 @@
 #pragma once
 #include <string>
-#include<vector>
+#include <vector>
 using namespace std;
 
 class Solution {
 public:
-    int calPoints(vector<string>& ops);
+    bool backspaceCompare(string S, string T);
 };

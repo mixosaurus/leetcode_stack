@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//682. 棒球比赛
+//844. 比较含退格的字符串
 int main() {
     Solution solution;
     vector<string> scores = { "5","-2","4","C","D","9","+","+" };
