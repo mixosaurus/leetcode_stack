@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//844. 比较含退格的字符串 -乱码测试
+//844. 比较含退格的字符串
 int main() {
     Solution solution;
     string s = "a##c";
