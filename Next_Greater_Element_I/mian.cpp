@@ -3,7 +3,7 @@
 #include "solution.h"
 using namespace std;
 
-//496. ÏÂÒ»¸ö¸ü´óÔªËØ I
+//496. ä¸‹ä¸€ä¸ªæ›´å¤§å…ƒç´  I
 int main() {
     Solution solution;
     vector<int> nums1= { 4,1,2 };
